@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+I'm Andrea
+
 - 🌱 I’m currently learning ...
+  - Python through [PCAP](https://edube.org/study/pe2), or maybe not
+- Just another bullet point
 <!--
 **andreamartinelliHub/andreamartinelliHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
